@@ -5,7 +5,7 @@
 - Lớp (L2 / L3 / khác): L23
 - Tài khoản GitHub: dawn2819
 - Repo bài nộp (URL): https://github.com/dawn2819/K5-L23-Day08-2A202603046-VuVanDang-AI-Assisted-Labeling
-- Commit chốt bài (hash): 53558f6
+- Commit chốt bài (hash): df4206a
 - Máy: Windows 11 (64-bit), CPU
 - CVAT (Docker): v2.74.1
 
