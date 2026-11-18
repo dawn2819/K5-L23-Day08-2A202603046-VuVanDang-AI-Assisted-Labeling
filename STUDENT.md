@@ -1,13 +1,13 @@
 # Thông tin học viên
 
-- Họ và tên: <<>>
-- MSHV: <<>>
-- Lớp (L2 / L3 / khác): <<>>
-- Tài khoản GitHub: <<>>
-- Repo bài nộp (URL): <<>>
-- Commit chốt bài (hash): <<>>
-- Máy: <<hệ điều hành, GPU (CUDA / MPS / không có)>>
-- CVAT (Docker): <<phiên bản, ví dụ v2.81.0>>
+- Họ và tên: Vũ Văn Đăng
+- MSHV: 2A202603046
+- Lớp (L2 / L3 / khác): L23
+- Tài khoản GitHub: dawn2819
+- Repo bài nộp (URL): https://github.com/dawn2819/K5-L23-Day08-2A202603046-VuVanDang-AI-Assisted-Labeling
+- Commit chốt bài (hash): <<chốt sau>>
+- Máy: Windows 11 (64-bit), CPU
+- CVAT (Docker): v2.74.1
 
 ## Kết quả tóm tắt (điền cuối bài; số lấy từ `submission/qc/*`, kèm mẫu số)
 
